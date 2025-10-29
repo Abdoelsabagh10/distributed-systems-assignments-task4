@@ -2,7 +2,7 @@
 
 This is a simple chatroom implemented in **Go** using **Remote Procedure Call (RPC)**.
 
-## 🧠 Overview
+##  Overview
 - The server listens for incoming RPC connections.
 - Each client connects to the server, enters their name, and can send messages.
 - The server stores all chat messages in memory.
@@ -11,7 +11,7 @@ This is a simple chatroom implemented in **Go** using **Remote Procedure Call (R
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 1. **Start the server**:
    ```
@@ -49,4 +49,4 @@ Enter your name: Fares
 --------------------
 
 **Demo Video**
-
+https://drive.google.com/file/d/1KlgPLx2m3td_aCB79ljMNkxqId4qBpF9/view?usp=sharing
